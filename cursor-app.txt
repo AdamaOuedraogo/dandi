@@ -1,0 +1,27 @@
+
+Step to create a Dandi application with curso AI IDE using natural Language
+
+step1: I want you to create a button that will redirect to /dashboards that will be the dasboard for managing api keys. It will havea ui CRUD API for api keys
+
+step2 : I want you to implement a ui for CRUD for managing user api keys
+
+
+step3 : take a screenshot off tavily web https://tavily.com/
+I like this design make it like this
+
+step 4 : create a modal when cliking "create" button
+Make when clicking "create" open a modal like this 
+
+
+I want to calculate the average time to create hotfix an deploy on production and also the average time to rooback.
+
+in my company the is 3 strategy use by the team to create hotfix.
+
+1. some team are Using a hotfix branch with a tag: The hotfix branch is automatically updated with the latest deployment.
+
+2. some team Creating a new branch to fix errors: Teams create a separate branch specifically for addressing the errors.
+
+3. and finaly some teams Redeploying the last stable tag: Rerunning only deploy job stable.
+
+
+is it possible to get this average time to deploy or rollback ? if yes could you help me to get this time 
